@@ -1,9 +1,9 @@
 const cacheName = "Davilichi-Schism-1.0";
 const contentToCache = [
-    "Build/Schism Web.loader.js",
-    "Build/Schism Web.framework.js",
-    "Build/Schism Web.data",
-    "Build/Schism Web.wasm",
+    "Build/Builds.loader.js",
+    "Build/Builds.framework.js",
+    "Build/Builds.data",
+    "Build/Builds.wasm",
     "TemplateData/style.css"
 
 ];
